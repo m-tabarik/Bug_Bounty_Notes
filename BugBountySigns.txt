@@ -22,7 +22,7 @@
 17. Is CORS implemented?
 18. Is Captcha used?
 19. Are WebSockets used?
-20. Is the source code publicly available?
+20. Is the source code publicly available?    
 
 
 # Ask yourself these questions about the server hosting the application
