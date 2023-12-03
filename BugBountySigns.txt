@@ -24,7 +24,7 @@
 19. Are WebSockets used?
 20. Is the source code publicly available?    
 
-
+     
 # Ask yourself these questions about the server hosting the application
 1. What ports are open?
 2. What services are running on those ports?
