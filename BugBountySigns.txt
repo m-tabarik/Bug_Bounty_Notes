@@ -62,7 +62,7 @@
         ~ Does the endpoint work the same way when the verb is changed?
         ~ Are any parameters rejected?
 
-************************
+************************    
 * VULN TESTING DETAILS *
 ************************
 
